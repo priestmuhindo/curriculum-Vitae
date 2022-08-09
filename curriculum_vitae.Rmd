@@ -1,0 +1,128 @@
+---
+title: "Curriculum Vitae"
+author: Priestley
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Priestley](profil.jpg){width="100%"}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [priestmuhindo\@gmail.com](mailto:priestmuhindo@gmail.com){.email}
+-   <i class="fa fa-github"></i> [github.com/priestmuhindo](https://github.com/priestmuhindo)
+-   <i class="fa fa-phone"></i> +243 995-839-534
+-   For more information, please contact me via email.
+
+## Compétences {#skills}
+
+-   Expérimenté dans le développement des applications Web avec R.
+
+-   Très pointu dans la conception de la méthodologie de collecte de données.
+
+# Main
+
+## Priestley Muhindo {#title}
+
+### Actuellement Consultant Meal Program au sein d'Expertise HS
+
+Technicien Supérieur de la Statistique, Expert dans la conception et planification de la recherche, l'élaboration de la méthodologie de recherche, supervision des opérations de collecte des données quantitatives et qualitatives avec les outils de la dernière technologie. Analyste des données avec les logiciels de pointe (SPSS, R, Python, ...) et visualisation des données, la production des cartes choroplèthes-thématique avec les logiciels SIG : ArcGIS, QGIS Spécialiste dans la mise sur pieds de la méthodologie pour les évaluations mais aussi et surtout dans l'analyse de données de divers domaines : socio-économique, sanitaires...\
+Je suis aussi développeur des applications web interactives pour la production des Dashboard et la diffusion des données, et en archivage. Nous avons 3 ans d'expérience professionnel étant agent de suivi et évaluation de projet,d'enquê
+teur, de superviseur d'enquête et d'analyste de donnée avec différentes ONGs 
+dans leurs évaluations; je suis capable de m'exprimer devant le public ; je serais toujours disponible et flexible pour le travail, je suis capable de travailler en équipe et une connaissance parfaite dans la gestion de données, le suivi et évaluation des projets, de collecte et d'analyse de données mobiles.
+
+## Professional Experience {data-icon="suitcase"}
+
+### MEAL PROGRAM 
+
+EXPERTISE HUMANITAIRE ET SOCIALE.
+
+Goma, RDC
+
+2014
+
+::: concise
+-	Mettre en place, en collaboration avec les collègues, la méthodologie d’échantillonnage en s’assurant de la représentativité de l’échantillon et de la précision des indicateurs de l’étude
+-	Assurer la configuration digitale (sous des platte-formes comme Kobotoolbox, ODK, SurveyCTO, etc.) des outils de collecte des données quantitatives et qualitatives en consultation avec d’autres membres de l’équipe EXPERTISE HS et/ou ses partenaires ;   
+-	Assurer, de façon automatique aux moyens des Dashboard interactifs, la validation des données collectées sur terrain
+-	Avec la complicité de l’équipe de rapportage, analyser les données avec les logiciels non seulement quantitatifs convenus (STATA, Python, SPSS, EXCEL, Tableau Software) mais aussi qualitatifs (MAXQDA, NVIVO, DEEDOSE, ATLAS) fournir les synthèses sous des formats convenus entre autres Word et html ; 
+-	Appuyer l’équipe de consultance dans les besoins, dans l’interprétation des résultats statistiques ; 
+-	Elaborer les plans d’analyses statistiques pour les études et évaluations réalisées par EXPERTISE HS ; 
+-	Sur demande des autres équipes, présenter, aider à la présentation des résultats, des conclusions et recommandations. 
+-	Elaboration des cartes choroplèthes
+
+:::
+
+### Consultant Data-scientist chez l’Institut National de Statistique /Nord-Kivu
+
+My Health Gene Technology Co., Ltd.
+
+Goma, RDC
+
+2015 - 2016
+
+::: concise
+- 	Configuration digitale sous Kobo Collect des questionnaires de collecte de données d’indentification des sinistrés sur la plateforme Kobotoolbox. 
+- 	Collecte de données primaires auprès des ménages et les informateurs-clés ainsi que la supervision des enquêtes et établir le plan d’analyse de données 
+- 	Collecte, présentation et analyse des données récoltées :
+- 	Création des outils de collecte de données et s'assurer de leur utilisation
+- 	Collecte des données dans les délais requis 
+- 	Présentation des données récoltées à l'aide de graphiques 
+- 	Analyse de données de tous les piliers de la riposte, tirer des conclusions et des recommandations pratiques pour l'intervention menée
+- 	Mis en jours de la base de données de tous les piliers et partage de données actualisées avec les partenaires
+
+:::
+
+### Assistant Suivi et Evaluation 
+
+My Health Gene Technology Co., Ltd.
+
+Goma, RDC
+
+2015 - 2016
+
+::: concise
+- Organiser l’élaboration et utilisation effective du plan de suivi et évaluation de tous les programmes financés par les donateurs BMZ. 
+- Soutenir la conception de systèmes de collecte de données pour mesurer la performance et l’impact du projet, notamment en effectuant des visites sur terrain dans les sites d’activité. 
+- Participer à la supervision et à la gestion du système de suivi et d’évaluation, y compris la mise en œuvre du plan de suivi et d’évaluation, l’élaboration de méthodes et d’outils de collecte de données, ainsi que d’analyses statistiques et de rapports de suivi et d’évaluation 
+- Gérer la mise en œuvre des enquêtes de base, des indicateurs de programmes et des cibles 
+- Assurer le suivi et l’évaluation des performances, y compris la mise en œuvre de systèmes de sauvegarde de la collecte et de la gestion des données du programme, et recommander des modifications au suivi des performances et aux plans de travail. 
+- Assurer la préparation dans les délais prescrits des rapports d’avancement liés au S&E sur une base hebdomadaire, mensuelle et trimestrielle. 
+- Collecter les informations et participer à l’analyse sur la qualité des activités menées.
+- S’assurer de l’atteinte des résultats des activités sous ma supervision.
+- Rédiger des rapports sur l’avancement des activités sous ma supervision.
+- Participer aux réunions et ateliers des différentes activités du programme.
+- Préparation et mise en place des outils de suivi et évaluation.
+- Faire le suivi des indicateurs de rendement du programme et des objectifs en maintenant une base des données pertinentes pour le programme des infrastructures sanitaires, sécurité alimentaire, éducatives …..
+- Faciliter les études et évaluations qui pourraient impliquer les évaluateurs externes.
+- Tenir le suivi et évaluation des activités et les communiquer à la direction pour des mesures appropriées.
+:::
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### ENSEA Abidjan
+
+Statistique
+
+Goma, RDC
+
+2018
+
+
+### INSTITUT SUPERIEUR DE STATISTIQUE ET DE NOUVELLES TECHNOLOGIES
+
+Techniques Mathématiques de Gestion
+
+Goma, RDC
+
+2014
+
+Licence: Analyse des déterminants de la réussite dans la faculté de Médecine cas de l'Université de Goma
+
